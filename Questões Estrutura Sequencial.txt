@@ -1,0 +1,3 @@
+Link para atividades sem a resolução
+
+https://wiki.python.org.br/EstruturaSequencial
